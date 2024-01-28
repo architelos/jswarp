@@ -1,0 +1,30 @@
+{
+    "name": "jswarp",
+    "version": "1.0.0",
+    "description": "Web frameworks made lightweight and easy.",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/architelos/jswarp"
+    },
+    "types": "./dist/index.d.ts",
+    "main": "./dist/index.js",
+    "files": [
+        "dist"
+    ],
+    "engines": {
+        "node": ">=13.2.0"
+    },
+    "keywords": [
+        "backend",
+        "server",
+        "framework",
+        "web",
+        "jswarp"
+    ],
+    "author": "architelos",
+    "license": "GPL-3.0-only",
+    "devDependencies": {
+        "@types/node": "^20.11.7"
+    }
+}
